@@ -1,0 +1,1 @@
+# Some mini javascript project
